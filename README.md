@@ -1,4 +1,4 @@
-# Hi there, I'm Rutwik Patel - aka [RutwikPatel13] 👋 
+# Hi there, I'm Rutwik Patel - aka [RutwikPatel13](https://github.com/RutwikPatel13) 👋 
 
 
 ## I'm a 3rd year I.T student of DJSCE!!
