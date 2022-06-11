@@ -21,17 +21,18 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/rutwik1313/#gh-dark-mode-only)
 
 ### Languages and Tools:
+-C
+-JAVA
+-Python
+-HTML5
+-CSS3
+-JavaScript
+-React
+-Node.js
+-MongoDB
+-MySQL
+-Git
 
-[<img align="left" alt="Visual Studio Code" width="26px" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px"  style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Node.js" width="26px" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px"  style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px"  style="padding-right:10px;" />][webdevplaylist]
 <br />
 <br />
 
