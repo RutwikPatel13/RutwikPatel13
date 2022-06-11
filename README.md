@@ -33,8 +33,6 @@
 - MySQL
 - Git
 
-<br />
-
 ### Projects
 
 - Java MySQL Project[Engineering College Predictor](https://github.com/RutwikPatel13/EngineeringCollegePredictor)
