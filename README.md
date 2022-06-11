@@ -34,7 +34,6 @@
 - Git
 
 <br />
----
 
 ### Projects
 
@@ -42,5 +41,5 @@
 - Java MySQL Project[Library Management System](https://github.com/RutwikPatel13/LibraryManagementSystem)
 - Webdev(frontend) and Python(backend) Project [Inventory Management](https://github.com/RutwikPatel13/inventoryproject)
 - MERN Project [XBook](https://github.com/RutwikPatel13/xbook)
-- 
+
 
