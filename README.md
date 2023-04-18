@@ -1,7 +1,7 @@
 # Hi there, I'm Rutwik Patel - aka [RutwikPatel13](https://github.com/RutwikPatel13) 👋 
 
 
-## I'm a 3rd year I.T student of DJSCE!!
+## I'm a 4th year I.T student of DJSCE!!
 
 - 🌱 I’m currently learning MERN Stack 
 - 👯 I’m looking to collaborate with other project groups
