@@ -34,7 +34,7 @@
 - Git
 
 ### Projects
-- Data Science Project [Cataract Detection with Explainable AI]
+- Data Science Project [Cataract Detection with Explainable AI](https://github.com/RutwikPatel13/Cataract_Detection_with_XAI)
 - MERN Project [XBook](https://github.com/RutwikPatel13/xbook)
 - Java MySQL Project[Engineering College Predictor](https://github.com/RutwikPatel13/EngineeringCollegePredictor)
 - Java MySQL Project[Library Management System](https://github.com/RutwikPatel13/LibraryManagementSystem)
