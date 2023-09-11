@@ -1,5 +1,5 @@
 # Hi there, I'm Rutwik Patel - aka [RutwikPatel13](https://github.com/RutwikPatel13) 👋 
-[Portfolio](www.rutwik.dev)
+[Portfolio](https://rutwik.dev/)
 
 ## I'm currently pursuing Masters of Science in Computer Science(Spec. Data Science) from University of Southern California!!
 
