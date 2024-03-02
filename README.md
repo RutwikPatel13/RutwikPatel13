@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning MERN Stack 
 - 👯 I’m looking to collaborate with other project groups
-- 🥅 2023 Goals: Learn more about Flutter
+- 🥅 2024 Goals: Learn more about Flutter
 - ⚡ Fun fact: I love to watch and play cricket
 
 
@@ -22,7 +22,6 @@
 
 ### Languages and Tools:
 - C
-- JAVA
 - Python
 - HTML5
 - CSS3
