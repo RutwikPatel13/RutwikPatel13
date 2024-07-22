@@ -1,7 +1,7 @@
 # Hi there, I'm Rutwik Patel - aka [RutwikPatel13](https://github.com/RutwikPatel13) 👋 
 [Portfolio](https://rutwik.dev/)
 
-## I'm currently pursuing Masters of Science in Computer Science(Spec. Data Science) from University of Southern California!!
+## I'm currently pursuing Masters of Science in Computer Science from University of Southern California!!
 
 - 🌱 I’m currently learning MERN Stack 
 - 👯 I’m looking to collaborate with other project groups
@@ -21,15 +21,16 @@
 [![instagram](./img/instagram-dark.svg)](https://www.instagram.com/rutwik1313/#gh-dark-mode-only)
 
 ### Languages and Tools:
-- C
 - Python
 - HTML5
 - CSS3
 - JavaScript
 - React
+- Angular
 - Node.js
 - MongoDB
 - MySQL
+- Swift
 - Git
 
 ### Projects
