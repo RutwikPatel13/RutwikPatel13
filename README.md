@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning MERN Stack 
 - 👯 I’m looking to collaborate with other project groups
-- 🥅 2024 Goals: Learn more about Flutter
+- 🥅 2025 Goals: Learn more about Flutter
 - ⚡ Fun fact: I love to watch and play cricket
 
 
