@@ -1,9 +1,8 @@
 # Hi there, I'm Rutwik Patel - aka [RutwikPatel13](https://github.com/RutwikPatel13) 👋 
 [Portfolio](https://rutwik.dev/)
 
-## I'm currently pursuing Masters of Science in Computer Science from University of Southern California.
+## I recently graduated with Masters degree of Science in Computer Science from University of Southern California.
 
-- 🌱 I’m currently learning MERN Stack 
 - 👯 I’m looking to collaborate with other project groups
 - 🥅 2025 Goals: Learn more about Flutter
 - ⚡ Fun fact: I love to watch and play cricket
@@ -27,18 +26,10 @@
 - JavaScript
 - React
 - Angular
-- Node.js
 - MongoDB
 - MySQL
 - Swift
 - Git
-
-### Projects
-- Data Science Project [Cataract Detection with Explainable AI](https://github.com/RutwikPatel13/Cataract_Detection_with_XAI)
-- MERN Project [XBook](https://github.com/RutwikPatel13/xbook)
-- Java MySQL Project[Engineering College Predictor](https://github.com/RutwikPatel13/EngineeringCollegePredictor)
-- Java MySQL Project[Library Management System](https://github.com/RutwikPatel13/LibraryManagementSystem)
-- Webdev(frontend) and Python(backend) Project [Inventory Management](https://github.com/RutwikPatel13/inventoryproject)
 
 
 
