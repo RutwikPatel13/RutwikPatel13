@@ -4,7 +4,7 @@
 ## I recently graduated with Masters degree of Science in Computer Science from University of Southern California.
 
 - 👯 I’m looking to collaborate with other project groups
-- 🥅 2025 Goals: Learn more about Flutter
+- 🥅 2026 Goals: Learn about AI
 - ⚡ Fun fact: I love to watch and play cricket
 
 
