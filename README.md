@@ -21,8 +21,6 @@
 
 ### Languages and Tools:
 - Python
-- HTML5
-- CSS3
 - JavaScript
 - React
 - Angular
