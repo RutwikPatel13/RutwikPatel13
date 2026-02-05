@@ -1,4 +1,4 @@
-# Hi there, I'm Rutwik Patel - aka [RutwikPatel13](https://github.com/RutwikPatel13) 👋 
+# Hi there, I'm Rutwik Patel 👋 
 [Portfolio](https://rutwik.dev/)
 
 ## I recently graduated with Masters degree of Science in Computer Science from University of Southern California.
@@ -18,16 +18,6 @@
 &nbsp;&nbsp;
 [![instagram](./img/instagram-light.svg)](https://www.instagram.com/rutwik1313/#gh-light-mode-only)
 [![instagram](./img/instagram-dark.svg)](https://www.instagram.com/rutwik1313/#gh-dark-mode-only)
-
-### Languages and Tools:
-- Python
-- JavaScript
-- React
-- Angular
-- MongoDB
-- MySQL
-- Swift
-- Git
 
 
 
